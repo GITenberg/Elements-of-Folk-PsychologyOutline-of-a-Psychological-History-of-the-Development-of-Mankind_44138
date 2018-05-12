@@ -1,0 +1,37 @@
+_repo: Elements-of-Folk-PsychologyOutline-of-a-Psychological-History-of-the-Development-of-Mankind_44138
+_version: 0.1.0
+alternative_title: Elemente der Völkerpsychologie. English
+contributor:
+  translator:
+    agent_name: Schaub, Edward L. (Edward Leroy)
+    alias: Schaub, Edward Leroy
+    birthdate: 1881
+    gutenberg_agent_id: '47071'
+    url: http://www.gutenberg.org/2009/agents/47071
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wundt, Wilhelm Max
+    birthdate: 1832
+    deathdate: 1920
+    gutenberg_agent_id: '42602'
+    url: http://www.gutenberg.org/2009/agents/42602
+description: ''
+gutenberg_issued: '2013-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcc 'GN'
+- !lcsh 'Ethnopsychology'
+title: 'Elements of Folk Psychology
+
+  Outline of a Psychological History of the Development of Mankind'
+url: http://www.gutenberg.org/ebooks/44138
